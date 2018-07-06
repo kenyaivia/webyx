@@ -1,0 +1,6 @@
+﻿<head>
+  <title>through a lenz</title>
+</head>
+<body>
+  <h1><strong>INTRO</strong></h1>
+  <p>This websites purpose will be to show the<strong> beauty</strong> of the world.It will focus more on the nautural features.</p>
